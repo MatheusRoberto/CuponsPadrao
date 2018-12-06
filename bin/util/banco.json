@@ -1,0 +1,838 @@
+{
+   "compras":[
+
+   ],
+   "cupons":[
+      {
+         "tipo":"Restaurantes",
+         "promocao":"50% de desconto no Segundo Prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante Mana ",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"362",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84062-670"
+            },
+            "nome":"Restaurante Mana",
+            "CNPJ":"04.669.615/0001-66"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"65% de desconto no Segundo Prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante Mana",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"362",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84062-670"
+            },
+            "nome":"Restaurante Mana",
+            "CNPJ":"04.669.615/0001-66"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"50% de desconto no Segundo Prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante NutriSabor",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Restaurante NutriSabor",
+            "CNPJ":"46.343.454/0001-66"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"70% de desconto no Segundo Prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante NutriSabor",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Restaurante NutriSabor",
+            "CNPJ":"46.343.454/0001-66"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"50% de desconto em qualquer prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante Fenix",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"351",
+               "bairro":"Car�-car�",
+               "rua":"Rua Zacarias",
+               "CEP":"84032-585"
+            },
+            "nome":"Restaurante Fenix",
+            "CNPJ":"20.735.669/0001-39"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"75% de desconto no Segundo Prato",
+         "validado":"false",
+         "nome":"Cupom no Restaurante Fenix",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"351",
+               "bairro":"Car�-car�",
+               "rua":"Rua Zacarias",
+               "CEP":"84032-585"
+            },
+            "nome":"Restaurante Fenix",
+            "CNPJ":"20.735.669/0001-39"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"50% de desconto na Segunda Pizza",
+         "validado":"false",
+         "nome":"Cupom no Pizzaria Tanrantela",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"362",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84062-670"
+            },
+            "nome":"Pizzaria Tanrantela",
+            "CNPJ":"33.615.382/0001-17"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"70% de desconto na Segunda Pizza",
+         "validado":"false",
+         "nome":"Cupom no Pizzaria Tanrantela",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"362",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84062-670"
+            },
+            "nome":"Pizzaria Tanrantela",
+            "CNPJ":"33.615.382/0001-17"
+         }
+      },
+      {
+         "tipo":"Restaurantes",
+         "promocao":"50% de desconto no em qualquer prato",
+         "validado":"false",
+         "nome":"Cupom no Hamburgueria 13",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Hamburgueria 13",
+            "CNPJ":"98.631.198/0001-06"
+         }
+      },
+      {
+         "tipo":"Alimento",
+         "promocao":"50% de desconto no Primeiro Prato",
+         "validado":"false",
+         "nome":"Cupom no Hamburgueria 13",
+         "fornecedor":{
+            "tipo":"Restaurante",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Hamburgueria 13",
+            "CNPJ":"98.631.198/0001-06"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"50% de desconto na Gasolina",
+         "validado":"false",
+         "nome":"Cupom no posto Marco Polo",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"351",
+               "bairro":"Car�-car�",
+               "rua":"Rua Zacarias",
+               "CEP":"84032-585"
+            },
+            "nome":"Posto Marco Polo",
+            "CNPJ":"80.871.232/0001-54"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"50% de desconto no Alcool",
+         "validado":"false",
+         "nome":"Cupom no posto Marco Polo",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"351",
+               "bairro":"Car�-car�",
+               "rua":"Rua Zacarias",
+               "CEP":"84032-585"
+            },
+            "nome":"Posto Marco Polo",
+            "CNPJ":"80.871.232/0001-54"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"50% de desconto na Gasolina",
+         "validado":"false",
+         "nome":"Cupom no posto Hipiranga",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"362",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84062-670"
+            },
+            "nome":"Posto Hipiranga",
+            "CNPJ":"75.582.478/0001-76"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"30% de desconto na Gasolina",
+         "validado":"false",
+         "nome":"Cupom no posto Trev�o",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Posto Trev�o",
+            "CNPJ":"23.258.216/0001-57"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"50% de desconto na Alcool",
+         "validado":"false",
+         "nome":"Cupom no posto Trev�o",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"401",
+               "bairro":"Jardim Carvalho",
+               "rua":"Rua Romanos",
+               "CEP":"84063-670"
+            },
+            "nome":"Posto Trev�o",
+            "CNPJ":"23.258.216/0001-57"
+         }
+      },
+      {
+         "tipo":"Combustivel",
+         "promocao":"50% de desconto na Gasolina",
+         "validado":"false",
+         "nome":"Cupom no posto Ing�",
+         "fornecedor":{
+            "tipo":"Combustivel",
+            "endereco":{
+               "numero":"351",
+               "bairro":"Car�-car�",
+               "rua":"Rua Zacarias",
+               "CEP":"84032-585"
+            },
+            "nome":"Posto Ing�",
+            "CNPJ":"16.498.390/0001-01"
+         }
+      }
+   ],
+   "enderecos":[
+      {
+         "numero":"395",
+         "bairro":"Jardim Carvalho",
+         "rua":"Rua Zacarias",
+         "CEP":"84032-585"
+      },
+      {
+         "numero":"412",
+         "bairro":"Car�-car�",
+         "rua":"Rua do Pedreiro",
+         "CEP":"84022-570"
+      },
+      {
+         "numero":"367",
+         "bairro":"Car�-car�",
+         "rua":"Rua do Pedreiro",
+         "CEP":"84062-170"
+      },
+      {
+         "numero":"362",
+         "bairro":"Jardim Carvalho",
+         "rua":"Rua Romanos",
+         "CEP":"84062-670"
+      },
+      {
+         "numero":"401",
+         "bairro":"Jardim Carvalho",
+         "rua":"Rua Romanos",
+         "CEP":"84063-670"
+      },
+      {
+         "numero":"351",
+         "bairro":"Car�-car�",
+         "rua":"Rua Zacarias",
+         "CEP":"84032-585"
+      }
+   ],
+   "fornecedores":[
+      {
+         "tipo":"Restaurante",
+         "endereco":{
+            "numero":"362",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84062-670"
+         },
+         "nome":"Restaurante Mana",
+         "CNPJ":"04.669.615/0001-66"
+      },
+      {
+         "tipo":"Restaurante",
+         "endereco":{
+            "numero":"401",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84063-670"
+         },
+         "nome":"Restaurante NutriSabor",
+         "CNPJ":"46.343.454/0001-66"
+      },
+      {
+         "tipo":"Restaurante",
+         "endereco":{
+            "numero":"351",
+            "bairro":"Car�-car�",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "nome":"Restaurante Fenix",
+         "CNPJ":"20.735.669/0001-39"
+      },
+      {
+         "tipo":"Restaurante",
+         "endereco":{
+            "numero":"362",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84062-670"
+         },
+         "nome":"Pizzaria Tanrantela",
+         "CNPJ":"33.615.382/0001-17"
+      },
+      {
+         "tipo":"Restaurante",
+         "endereco":{
+            "numero":"401",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84063-670"
+         },
+         "nome":"Hamburgueria 13",
+         "CNPJ":"98.631.198/0001-06"
+      },
+      {
+         "tipo":"Combustivel",
+         "endereco":{
+            "numero":"351",
+            "bairro":"Car�-car�",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "nome":"Posto Marco Polo",
+         "CNPJ":"80.871.232/0001-54"
+      },
+      {
+         "tipo":"Combustivel",
+         "endereco":{
+            "numero":"362",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84062-670"
+         },
+         "nome":"Posto Hipiranga",
+         "CNPJ":"75.582.478/0001-76"
+      },
+      {
+         "tipo":"Combustivel",
+         "endereco":{
+            "numero":"401",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Romanos",
+            "CEP":"84063-670"
+         },
+         "nome":"Posto Trev�o",
+         "CNPJ":"23.258.216/0001-57"
+      },
+      {
+         "tipo":"Combustivel",
+         "endereco":{
+            "numero":"351",
+            "bairro":"Car�-car�",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "nome":"Posto Ing�",
+         "CNPJ":"16.498.390/0001-01"
+      }
+   ],
+   "clientes":[
+      {
+         "senha":"ZurZOUGu13",
+         "telefone":"(42) 99464-2062",
+         "endereco":{
+            "numero":"395",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "CPF":"314.046.659-51",
+         "nome":"Henry Emanuel Rafael Santos",
+         "email":"hhenryemanuelrafaelsantos@ematelecom.com.br"
+      },
+      {
+         "senha":"eXD8BSXugx",
+         "telefone":"(42) 98750-6297",
+         "endereco":{
+            "numero":"412",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84022-570"
+         },
+         "CPF":"462.372.439-50",
+         "nome":"Osvaldo Eduardo Brito",
+         "email":"osvaldoeduardobrito@validtecnologia.com.br"
+      },
+      {
+         "senha":"TZReu4wCN8",
+         "telefone":"(42) 99649-7069",
+         "endereco":{
+            "numero":"367",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84062-170"
+         },
+         "CPF":"136.223.109-60",
+         "nome":"Diego Martin Gomes",
+         "email":"diegomartingomes@fileno.com.br"
+      },
+      {
+         "senha":"PrtyjsfEHZ",
+         "telefone":"(42) 98469-4301",
+         "endereco":{
+            "numero":"395",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "CPF":"589.754.949-42",
+         "nome":"Carlos Joaquim Antonio das Neves",
+         "email":"carlosjoaquimantoniodasneves@gmx.com.br"
+      },
+      {
+         "senha":"fNlLeXU32x",
+         "telefone":"(42) 98691-6045",
+         "endereco":{
+            "numero":"412",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84022-570"
+         },
+         "CPF":"627.135.429-79",
+         "nome":"Rayssa L�via Ara�jo",
+         "email":"rayssaliviaaraujo-72@krika.com.br"
+      },
+      {
+         "senha":"xk5Sk17oME",
+         "telefone":"(42) 98587-9545",
+         "endereco":{
+            "numero":"367",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84062-170"
+         },
+         "CPF":"509.603.179-96",
+         "nome":"Jaqueline Louise Francisca Figueiredo",
+         "email":"jaquelinelouise@valedesign.com.br"
+      },
+      {
+         "senha":"5tf6zx3noy",
+         "telefone":"(42) 99514-1852",
+         "endereco":{
+            "numero":"395",
+            "bairro":"Jardim Carvalho",
+            "rua":"Rua Zacarias",
+            "CEP":"84032-585"
+         },
+         "CPF":"002.988.949-98",
+         "nome":"Mait� Tatiane Cavalcanti",
+         "email":"maitetatianecavalcanti@seal.com.br"
+      },
+      {
+         "senha":"doFNjQcyjQ",
+         "telefone":"(42) 98582-5879",
+         "endereco":{
+            "numero":"412",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84022-570"
+         },
+         "CPF":"791.223.839-56",
+         "nome":"Aurora Aline da Rocha",
+         "email":"auroraalinedarocha_@sp.gov.br"
+      },
+      {
+         "senha":"OrRFFohRNt",
+         "telefone":"(42) 98683-1045",
+         "endereco":{
+            "numero":"367",
+            "bairro":"Car�-car�",
+            "rua":"Rua do Pedreiro",
+            "CEP":"84062-170"
+         },
+         "CPF":"104.127.839-08",
+         "nome":"Marcela Brenda Rodrigues",
+         "email":"marcelabrendarodrigues@aliancacadeiras.com.br"
+      },
+      {
+         "senha":"s4asaf6s5dasdw9",
+         "telefone":"(42) 55996-4233",
+         "endereco":{
+            "numero":"536",
+            "bairro":"Centro",
+            "rua":"Prefeiro Marcio Rosário",
+            "CEP":"84025-632"
+         },
+         "CPF":"314.046.659-51",
+         "nome":"Fernando Sanches",
+         "email":"fernadas-b@gmail.com"
+      }
+   ],
+   "colecoes":[
+      {
+         "preco":100,
+         "cupons":[
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":3726836307899,
+               "promocao":"65% de desconto no Segundo Prato",
+               "nome":"Cupom no Restaurante Mana",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"362",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84062-670"
+                  },
+                  "nome":"Restaurante Mana"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":2377834930890,
+               "promocao":"70% de desconto no Segundo Prato",
+               "nome":"Cupom no Restaurante NutriSabor",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Restaurante NutriSabor"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":6527343556534,
+               "promocao":"75% de desconto no Segundo Prato",
+               "nome":"Cupom no Restaurante Fenix",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"351",
+                     "bairro":"Car�-car�",
+                     "rua":"Rua Zacarias",
+                     "CEP":"84032-585"
+                  },
+                  "nome":"Restaurante Fenix"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":9073619838234,
+               "promocao":"70% de desconto na Segunda Pizza",
+               "nome":"Cupom no Pizzaria Tanrantela",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"362",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84062-670"
+                  },
+                  "nome":"Pizzaria Tanrantela"
+               }
+            },
+            {
+               "tipo":"Alimento",
+               "codigoValidacao":7232704776539,
+               "promocao":"50% de desconto no Primeiro Prato",
+               "nome":"Cupom no Hamburgueria 13",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Hamburgueria 13"
+               }
+            }
+         ],
+         "dataValidade":"May 7, 2019 12:00:00 AM",
+         "categoria":"Restaurante",
+         "nome":"Cole��o Premium Restaurante",
+         "dataInicio":"Dec 7, 2018 12:00:00 AM",
+         "versao":"1"
+      },
+      {
+         "preco":50,
+         "cupons":[
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":6515729208701,
+               "promocao":"50% de desconto no Segundo Prato",
+               "nome":"Cupom no Restaurante Mana ",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"362",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84062-670"
+                  },
+                  "nome":"Restaurante Mana"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":5466774996733,
+               "promocao":"50% de desconto no Segundo Prato",
+               "nome":"Cupom no Restaurante NutriSabor",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Restaurante NutriSabor"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":9933540243053,
+               "promocao":"50% de desconto em qualquer prato",
+               "nome":"Cupom no Restaurante Fenix",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"351",
+                     "bairro":"Car�-car�",
+                     "rua":"Rua Zacarias",
+                     "CEP":"84032-585"
+                  },
+                  "nome":"Restaurante Fenix"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":5249638798116,
+               "promocao":"50% de desconto na Segunda Pizza",
+               "nome":"Cupom no Pizzaria Tanrantela",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"362",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84062-670"
+                  },
+                  "nome":"Pizzaria Tanrantela"
+               }
+            },
+            {
+               "tipo":"Restaurantes",
+               "codigoValidacao":1413285056906,
+               "promocao":"50% de desconto no em qualquer prato",
+               "nome":"Cupom no Hamburgueria 13",
+               "fornecedor":{
+                  "tipo":"Restaurante",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Hamburgueria 13"
+               }
+            }
+         ],
+         "dataValidade":"May 7, 2019 12:00:00 AM",
+         "categoria":"Restaurante",
+         "nome":"Cole��o Standart Restaurante",
+         "dataInicio":"Dec 7, 2018 12:00:00 AM",
+         "versao":"1"
+      },
+      {
+         "preco":65,
+         "cupons":[
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":8999863881737,
+               "promocao":"50% de desconto na Gasolina",
+               "nome":"Cupom no posto Marco Polo",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"351",
+                     "bairro":"Car�-car�",
+                     "rua":"Rua Zacarias",
+                     "CEP":"84032-585"
+                  },
+                  "nome":"Posto Marco Polo"
+               }
+            },
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":4831434131886,
+               "promocao":"50% de desconto no Alcool",
+               "nome":"Cupom no posto Marco Polo",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"351",
+                     "bairro":"Car�-car�",
+                     "rua":"Rua Zacarias",
+                     "CEP":"84032-585"
+                  },
+                  "nome":"Posto Marco Polo"
+               }
+            },
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":4001809433811,
+               "promocao":"50% de desconto na Gasolina",
+               "nome":"Cupom no posto Hipiranga",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"362",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84062-670"
+                  },
+                  "nome":"Posto Hipiranga"
+               }
+            },
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":3099566518491,
+               "promocao":"30% de desconto na Gasolina",
+               "nome":"Cupom no posto Trev�o",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Posto Trev�o"
+               }
+            },
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":6788413746979,
+               "promocao":"50% de desconto na Alcool",
+               "nome":"Cupom no posto Trev�o",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"401",
+                     "bairro":"Jardim Carvalho",
+                     "rua":"Rua Romanos",
+                     "CEP":"84063-670"
+                  },
+                  "nome":"Posto Trev�o"
+               }
+            },
+            {
+               "tipo":"Combustivel",
+               "codigoValidacao":1789623895523,
+               "promocao":"50% de desconto na Gasolina",
+               "nome":"Cupom no posto Ing�",
+               "fornecedor":{
+                  "tipo":"Combustivel",
+                  "endereco":{
+                     "numero":"351",
+                     "bairro":"Car�-car�",
+                     "rua":"Rua Zacarias",
+                     "CEP":"84032-585"
+                  },
+                  "nome":"Posto Ing�"
+               }
+            }
+         ],
+         "dataValidade":"May 7, 2019 12:00:00 AM",
+         "categoria":"Combustivel",
+         "nome":"Cole��o Standart Postos",
+         "dataInicio":"Dec 7, 2018 12:00:00 AM",
+         "versao":"1"
+      }
+   ]
+}
